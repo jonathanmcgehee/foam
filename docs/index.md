@@ -12,6 +12,7 @@ Finished a LATEX report on a residential floor failure.
 
 [20210719-Mon](../docs/journal/20210719-Mon.md)
 [inbox](../inbox.md)
+[test](test.md)
 
 # Foam Knowledge Base Hierarchy
 
