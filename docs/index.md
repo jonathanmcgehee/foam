@@ -10,7 +10,7 @@ Finished a LATEX report on a residential floor failure.
 
 ## Daily Notes Archives
 
-[20210719-Mon](../docs/journal/20210719-Mon.md)
+[20210719-Mon](/journal/20210719-Mon.md)
 [inbox](../inbox.md)
 [test](test.md)
 
