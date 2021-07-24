@@ -4,7 +4,7 @@ Welcome to my [foam](https://foambubble.github.io/foam/) knowledge base. Here I 
 
 If you'd like to connect, send me a DM
 
-<a href="https://twitter.com/messages/compose?recipient_id=3805104374"
+<a href="https://twitter.com/messages/compose?recipient_id=86097822"
   class="twitter-dm-button" data-screen-name="@jonathanmcgehee">
 Message @jonathanmcgehee</a>
 
