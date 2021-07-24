@@ -14,7 +14,7 @@ Kitchen cabinet door repaired
 
 Another trip to [Hendersonville](https://en.wikipedia.org/wiki/Hendersonville,_Tennessee). For the third time this week. But this time for a culvert headwall failure.
 
-Still learning and working through things with [foam](https://foambubble.github.io/foam/#table-of-contents), [git](https://git-scm.com/), [GitHub](https://github.com/), [Markdown](https://www.markdownguide.org/), and [VSCode](https://code.visualstudio.com/).
+Still learning and working through things with [foam](https://foambubble.github.io/foam/), [git](https://git-scm.com/), [GitHub](https://github.com/), [Markdown](https://www.markdownguide.org/), and [VSCode](https://code.visualstudio.com/).
 
 [[Gracie]]'s new [favorite spot](https://photos.app.goo.gl/Asqj14i852KXtxYP6)
 
