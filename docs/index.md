@@ -6,6 +6,8 @@ Another trip to [Hendersonville](https://en.wikipedia.org/wiki/Hendersonville,_T
 
 Still learning and working through things with foam, git, GitHub, Markdown, and VSCode.
 
+[[Gracie]]'s new [favorite spot](https://photos.app.goo.gl/Asqj14i852KXtxYP6)
+
 Finished a LATEX report on a residential floor failure.
 
 ## Daily Notes Archives
