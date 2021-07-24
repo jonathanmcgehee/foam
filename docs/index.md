@@ -3,9 +3,10 @@
 Welcome to my [foam](https://foambubble.github.io/foam/) knowledge base. Here I share my daily notes/journal/blog as well as longer writing compositions. Additionally, I will coalesce what I am learning here and use this as a space to grow knowledge, share knowledge, make connections, etc. 
 
 If you'd like to connect, send me a DM
+
 <a href="https://twitter.com/messages/compose?recipient_id=3805104374"
-  class="twitter-dm-button" data-screen-name="@furni">
-Message @furni</a>
+  class="twitter-dm-button" data-screen-name="@jonathanmcgehee">
+Message @jonathanmcgehee</a>
 
 *Please read the [disclaimer](disclaimer.md) before going on as your use of this material assumes your agreement with the statements made within.*
 
