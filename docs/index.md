@@ -20,7 +20,9 @@ Stopped at Home Depot and picked up some hardware to fix the kitchen cabinet doo
 
 Watched an episode of [House M.D.](https://www.amazon.com/House-Season-1/dp/B000WCT7M8) with lunch
 
-Kitchen cabinet door repaired
+Kitchen cabinet door [repaired](https://photos.app.goo.gl/ne6X6K4FXGBxQsv98)
+
+Garage door [hung](https://photos.app.goo.gl/Zi8jPGT4ZpXYWE4V7), hardware and strike plate installed
 
 ## Friday, July 23, 2021
 
@@ -36,9 +38,10 @@ Finished season 1 of [Loki](https://www.disneyplus.com/series/loki/6pARMvILBGzF)
 
 ## Daily Notes Archive
 
-[Daily Notes Archive](dailyNotesArchive.md)
+Read older posts [here](dailyNotesArchive.md)
 
 # Foam Knowledge Base Hierarchy
+
 
 - retaining walls
     - culvert headwalls
