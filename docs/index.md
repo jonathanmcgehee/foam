@@ -25,8 +25,11 @@ Finished season 1 of [Loki](https://www.disneyplus.com/series/loki/6pARMvILBGzF)
 ## Daily Notes Archives
 
 [20210723-Fri](/journal/20210723-Fri.md)
+
 [20210719-Mon](/journal/20210719-Mon.md)
+
 [inbox](../inbox.md)
+
 [test](test.md)
 
 # Foam Knowledge Base Hierarchy
