@@ -20,6 +20,8 @@ Still learning and working through things with [foam](https://foambubble.github.
 
 Finished a [LATEX](https://www.latex-project.org/) report on a residential floor failure.
 
+Finished season 1 of [Loki](https://www.disneyplus.com/series/loki/6pARMvILBGzF)
+
 ## Daily Notes Archives
 
 [20210723-Fri](/journal/20210723-Fri.md)
