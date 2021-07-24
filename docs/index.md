@@ -34,15 +34,9 @@ Finished a [LATEX](https://www.latex-project.org/) report on a residential floor
 
 Finished season 1 of [Loki](https://www.disneyplus.com/series/loki/6pARMvILBGzF)
 
-## Daily Notes Archives
+## Daily Notes Archive
 
-[20210723-Fri](/journal/20210723-Fri.md)
-
-[20210719-Mon](/journal/20210719-Mon.md)
-
-[inbox](../inbox.md)
-
-[test](test.md)
+[Daily Notes Archive](dailyNotesArchive.md)
 
 # Foam Knowledge Base Hierarchy
 
