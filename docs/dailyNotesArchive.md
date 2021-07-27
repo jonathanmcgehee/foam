@@ -1,4 +1,7 @@
 # Daily Notes Archive
+[20210727-Tue](journal/20210727-Tue.md)
+
+[20210726-Mon](/journal/20210726-Mon.md)
 
 [20210723-Fri](/journal/20210723-Fri.md)
 
