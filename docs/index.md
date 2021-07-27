@@ -4,8 +4,8 @@
   - [Connect](#connect)
   - [Disclaimer](#disclaimer)
 - [Daily Notes](#daily-notes)
-- [Tuesday, July 27, 2021](#tuesday-july-27-2021)
-- [Monday, July 26, 2021](#monday-july-26-2021)
+  - [Tuesday, July 27, 2021](#tuesday-july-27-2021)
+  - [Monday, July 26, 2021](#monday-july-26-2021)
   - [Saturday, July 24, 2021](#saturday-july-24-2021)
   - [Friday, July 23, 2021](#friday-july-23-2021)
   - [Daily Notes Archive](#daily-notes-archive)
@@ -33,7 +33,7 @@ Message @jonathanmcgehee</a>
 
 # Daily Notes
 
-# Tuesday, July 27, 2021
+## Tuesday, July 27, 2021
 
 Looking first thing today at an apartment mold growth problem
 
@@ -45,7 +45,7 @@ Started using [JabRef](https://www.jabref.org/) today to organize my report refe
 
 Starting a report on structure fire damage
 
-# Monday, July 26, 2021
+## Monday, July 26, 2021
 
 Reading in [[Hope in Times of Fear]]
 
