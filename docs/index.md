@@ -39,6 +39,8 @@ Looking first thing today at an apartment mold growth problem
 
 Finishing up a report on a clothes washing machine failure
 
+Organized some markdown files for my forensic pathology and diagnosis reference
+
 Started using [JabRef](https://www.jabref.org/) today to organize my report references. I like some of the built in features. There was a bit of a learning curve to get going with it and actually use it to generate the '.bib' file for my report.
 
 Starting a report on structure fire damage
